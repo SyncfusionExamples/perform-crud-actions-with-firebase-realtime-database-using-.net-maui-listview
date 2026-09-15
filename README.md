@@ -1,4 +1,4 @@
-# perform-crud-actions-with-firebase-realtime-database-using-.net-maui-listview
+# How to perform CRUD operations with Firebase Realtime database using.NET MAUI ListView (SfListView)?
 
 This demo explains about how to perform CRUD operations with Firebase Realtime database using.NET MAUI ListView (SfListView).
 
